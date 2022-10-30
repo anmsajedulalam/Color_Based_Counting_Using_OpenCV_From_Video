@@ -1,6 +1,6 @@
 # Color_Based_Counting_Using_OpenCV_From_Video
 
-Used OpenCV to count same color objects in real time from a video file shooted by me.
+Used OpenCV to count same color objects in real time from a video file shooted by me. Masking was used for separating colors, used lower and upper HSV bounderies to detect specific colors.
 
 ## From my video of colorful Ludo Guis on knife board in kitchen
 
